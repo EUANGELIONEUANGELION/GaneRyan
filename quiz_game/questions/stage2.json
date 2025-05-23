@@ -2,29 +2,264 @@
     "questions": [
         {
             "id": 1,
-            "question": "Which neurotransmitter is primarily responsible for the sleep-wake cycle?",
+            "question": "Neurotransmitter manakah yang terutama bertanggung jawab untuk siklus tidur-bangun?",
             "options": [
                 "Serotonin",
-                "Dopamine",
-                "Melatonin",
-                "Norepinephrine"
+                "Dopamin",
+                "Melatonin", 
+                "Norepinefrin"
             ],
             "correct_answer": 2,
-            "time_limit": 20,
+            "time_limit": 9,
             "points": 150
         },
         {
             "id": 2,
-            "question": "In the cardiac conduction system, which structure normally initiates the heartbeat?",
+            "question": "Dalam sistem konduksi jantung, struktur manakah yang biasanya memulai detak jantung?",
             "options": [
-                "AV node",
-                "SA node",
-                "Bundle of His",
-                "Purkinje fibers"
+                "Nodus AV",
+                "Nodus SA",
+                "Berkas His",
+                "Serabut Purkinje"
             ],
             "correct_answer": 1,
-            "time_limit": 20,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 3,
+            "question": "Apa fungsi utama dari hemoglobin dalam darah?",
+            "options": [
+                "Mengangkut oksigen",
+                "Mengatur suhu tubuh",
+                "Mengangkut nutrisi",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 0,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 4,
+            "question": "Hormon manakah yang mengatur kadar gula darah?",
+            "options": [
+                "Insulin",
+                "Tiroksin",
+                "Adrenalin",
+                "Estrogen"
+            ],
+            "correct_answer": 0,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 5,
+            "question": "Apa nama tulang terbesar dalam tubuh manusia?",
+            "options": [
+                "Tulang paha",
+                "Tulang belikat",
+                "Tulang tengkorak",
+                "Tulang rusuk"
+            ],
+            "correct_answer": 0,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 6,
+            "question": "Apa fungsi utama dari sistem limfatik?",
+            "options": [
+                "Mengangkut oksigen",
+                "Mengatur suhu tubuh",
+                "Mengangkut limfa",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 2,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 7,
+            "question": "Apa nama sel darah yang bertanggung jawab untuk pembekuan darah?",
+            "options": [
+                "Eritrosit",
+                "Leukosit",
+                "Trombosit",
+                "Limfosit"
+            ],
+            "correct_answer": 2,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 8,
+            "question": "Apa fungsi utama dari ginjal?",
+            "options": [
+                "Menyaring darah",
+                "Mengatur suhu tubuh",
+                "Mengangkut nutrisi",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 0,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 9,
+            "question": "Apa nama jaringan yang menghubungkan otot dengan tulang?",
+            "options": [
+                "Ligamen",
+                "Tendon",
+                "Kartilago",
+                "Fascia"
+            ],
+            "correct_answer": 1,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 10,
+            "question": "Apa fungsi utama dari paru-paru?",
+            "options": [
+                "Mengangkut oksigen",
+                "Mengatur suhu tubuh",
+                "Pertukaran gas",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 2,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 11,
+            "question": "Apa nama bagian otak yang mengatur keseimbangan dan koordinasi?",
+            "options": [
+                "Serebrum",
+                "Serebelum",
+                "Hipotalamus",
+                "Medula oblongata"
+            ],
+            "correct_answer": 1,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 12,
+            "question": "Apa fungsi utama dari pankreas?",
+            "options": [
+                "Produksi insulin",
+                "Mengatur suhu tubuh",
+                "Mengangkut nutrisi",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 0,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 13,
+            "question": "Apa nama bagian dari mata yang mengatur jumlah cahaya yang masuk?",
+            "options": [
+                "Kornea",
+                "Iris",
+                "Lensa",
+                "Retina"
+            ],
+            "correct_answer": 1,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 14,
+            "question": "Apa fungsi utama dari hati?",
+            "options": [
+                "Sintesis protein",
+                "Detoksifikasi",
+                "Produksi empedu",
+                "Semua jawaban benar"
+            ],
+            "correct_answer": 3,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 15,
+            "question": "Apa nama bagian dari telinga yang bertanggung jawab untuk keseimbangan?",
+            "options": [
+                "Koklea",
+                "Saluran setengah lingkaran",
+                "Gendang telinga",
+                "Tulang pendengaran"
+            ],
+            "correct_answer": 1,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 16,
+            "question": "Apa fungsi utama dari sistem saraf?",
+            "options": [
+                "Mengangkut oksigen",
+                "Mengatur suhu tubuh",
+                "Mengirim sinyal",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 2,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 17,
+            "question": "Apa nama bagian dari sistem pencernaan yang menyerap nutrisi?",
+            "options": [
+                "Lambung",
+                "Usus halus",
+                "Usus besar",
+                "Pankreas"
+            ],
+            "correct_answer": 1,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 18,
+            "question": "Apa fungsi utama dari sistem pernapasan?",
+            "options": [
+                "Mengangkut oksigen",
+                "Mengatur suhu tubuh",
+                "Pertukaran gas",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 2,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 19,
+            "question": "Apa nama bagian dari sistem reproduksi wanita yang menghasilkan sel telur?",
+            "options": [
+                "Ovarium",
+                "Uterus",
+                "Tuba falopi",
+                "Serviks"
+            ],
+            "correct_answer": 0,
+            "time_limit": 9,
+            "points": 150
+        },
+        {
+            "id": 20,
+            "question": "Apa fungsi utama dari sistem endokrin?",
+            "options": [
+                "Mengangkut oksigen",
+                "Mengatur suhu tubuh",
+                "Mengatur hormon",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 2,
+            "time_limit": 9,
             "points": 150
         }
+     
     ]
 } 

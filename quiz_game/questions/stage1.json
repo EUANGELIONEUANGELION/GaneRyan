@@ -15,15 +15,379 @@
         },
         {
             "id": 2,
-            "question": "Which of the following is NOT a function of the liver?",
+            "question": "Manakah yang BUKAN merupakan fungsi hati?",
             "options": [
-                "Protein synthesis",
-                "Detoxification",
-                "Oxygen exchange",
-                "Bile production"
+                "Sintesis protein",
+                "Detoksifikasi",
+                "Pertukaran oksigen", 
+                "Produksi empedu"
             ],
             "correct_answer": 2,
-            "time_limit": 15,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 3,
+            "question": "Organ yang bertanggung jawab untuk menyaring darah adalah?",
+            "options": [
+                "Hati",
+                "Ginjal", 
+                "Paru-paru",
+                "Usus"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 4,
+            "question": "Hormon yang mengatur kadar gula darah adalah?",
+            "options": [
+                "Insulin",
+                "Tiroksin",
+                "Adrenalin",
+                "Estrogen"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 5,
+            "question": "Berapa jumlah normal tekanan darah sistolik?",
+            "options": [
+                "90-119 mmHg",
+                "120-129 mmHg",
+                "130-139 mmHg",
+                "140-159 mmHg"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 6,
+            "question": "Sel darah yang berfungsi dalam pembekuan darah adalah?",
+            "options": [
+                "Eritrosit",
+                "Leukosit",
+                "Trombosit",
+                "Plasma"
+            ],
+            "correct_answer": 2,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 7,
+            "question": "Bagian otak yang mengatur keseimbangan tubuh adalah?",
+            "options": [
+                "Otak besar",
+                "Otak kecil",
+                "Batang otak",
+                "Hipotalamus"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 8,
+            "question": "Vitamin yang penting untuk pembekuan darah adalah?",
+            "options": [
+                "Vitamin A",
+                "Vitamin B",
+                "Vitamin C",
+                "Vitamin K"
+            ],
+            "correct_answer": 3,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 9,
+            "question": "Organ yang menghasilkan insulin adalah?",
+            "options": [
+                "Hati",
+                "Pankreas",
+                "Ginjal",
+                "Usus"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 10,
+            "question": "Berapa suhu tubuh normal manusia?",
+            "options": [
+                "35.5-36.5°C",
+                "36.5-37.5°C",
+                "37.5-38.5°C",
+                "38.5-39.5°C"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 11,
+            "question": "Apa fungsi utama hemoglobin?",
+            "options": [
+                "Mengangkut oksigen",
+                "Melawan infeksi",
+                "Pembekuan darah",
+                "Mengatur suhu tubuh"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 12,
+            "question": "Berapa jumlah normal respirasi per menit pada orang dewasa?",
+            "options": [
+                "8-12 kali",
+                "12-20 kali",
+                "20-30 kali",
+                "30-40 kali"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 13,
+            "question": "Manakah yang BUKAN merupakan lapisan jantung?",
+            "options": [
+                "Endokardium",
+                "Miokardium",
+                "Perikardium",
+                "Cerebrum"
+            ],
+            "correct_answer": 3,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 14,
+            "question": "Apa fungsi utama kelenjar tiroid?",
+            "options": [
+                "Mengatur metabolisme",
+                "Mengatur gula darah",
+                "Mengatur tekanan darah",
+                "Mengatur suhu tubuh"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 15,
+            "question": "Berapa volume darah normal pada orang dewasa?",
+            "options": [
+                "2-3 liter",
+                "4-6 liter",
+                "7-8 liter",
+                "9-10 liter"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 16,
+            "question": "Apa fungsi utama sistem limfatik?",
+            "options": [
+                "Transportasi nutrisi",
+                "Pertahanan tubuh",
+                "Pembekuan darah",
+                "Pencernaan makanan"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 17,
+            "question": "Manakah yang BUKAN merupakan fungsi tulang?",
+            "options": [
+                "Penyimpanan mineral",
+                "Produksi sel darah",
+                "Produksi hormon",
+                "Pencernaan makanan"
+            ],
+            "correct_answer": 3,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 18,
+            "question": "Apa fungsi utama kelenjar adrenal?",
+            "options": [
+                "Mengatur metabolisme",
+                "Mengatur stres",
+                "Mengatur pertumbuhan",
+                "Mengatur reproduksi"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 19,
+            "question": "Berapa pH normal darah manusia?",
+            "options": [
+                "6.8-7.0",
+                "7.35-7.45",
+                "7.5-7.8",
+                "8.0-8.2"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 20,
+            "question": "Apa fungsi utama medula oblongata?",
+            "options": [
+                "Mengatur keseimbangan",
+                "Mengatur memori",
+                "Mengatur fungsi vital",
+                "Mengatur emosi"
+            ],
+            "correct_answer": 2,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 21,
+            "question": "Manakah yang BUKAN merupakan fungsi kulit?",
+            "options": [
+                "Proteksi",
+                "Regulasi suhu",
+                "Produksi vitamin D",
+                "Produksi insulin"
+            ],
+            "correct_answer": 3,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 22,
+            "question": "Apa fungsi utama kelenjar paratiroid?",
+            "options": [
+                "Mengatur kalsium",
+                "Mengatur gula darah",
+                "Mengatur hormon",
+                "Mengatur tekanan darah"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 23,
+            "question": "Berapa jumlah normal trombosit per mikroliter darah?",
+            "options": [
+                "100,000-150,000",
+                "150,000-450,000",
+                "450,000-700,000",
+                "700,000-1,000,000"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 24,
+            "question": "Apa fungsi utama kelenjar timus?",
+            "options": [
+                "Produksi sel T",
+                "Produksi insulin",
+                "Produksi adrenalin",
+                "Produksi tiroksin"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 25,
+            "question": "Manakah yang BUKAN merupakan fungsi ginjal?",
+            "options": [
+                "Filtrasi darah",
+                "Produksi urin",
+                "Regulasi pH",
+                "Produksi insulin"
+            ],
+            "correct_answer": 3,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 26,
+            "question": "Apa fungsi utama sumsum tulang?",
+            "options": [
+                "Produksi sel darah",
+                "Produksi hormon",
+                "Produksi enzim",
+                "Produksi antibodi"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 27,
+            "question": "Berapa volume tidal paru-paru normal?",
+            "options": [
+                "200-300 ml",
+                "400-500 ml",
+                "600-700 ml",
+                "800-900 ml"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 28,
+            "question": "Apa fungsi utama kelenjar pineal?",
+            "options": [
+                "Mengatur tidur",
+                "Mengatur nafsu makan",
+                "Mengatur mood",
+                "Mengatur pertumbuhan"
+            ],
+            "correct_answer": 0,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 29,
+            "question": "Manakah yang BUKAN merupakan fungsi pankreas?",
+            "options": [
+                "Produksi insulin",
+                "Produksi enzim pencernaan",
+                "Produksi glukagon",
+                "Produksi adrenalin"
+            ],
+            "correct_answer": 3,
+            "time_limit": 10,
+            "points": 100
+        },
+        {
+            "id": 30,
+            "question": "Berapa kadar normal glukosa darah puasa?",
+            "options": [
+                "50-70 mg/dL",
+                "70-100 mg/dL",
+                "100-125 mg/dL",
+                "125-150 mg/dL"
+            ],
+            "correct_answer": 1,
+            "time_limit": 10,
             "points": 100
         }
     ]
