@@ -1,11 +1,33 @@
 /* Medical theme colors */
 :root {
-    --medical-blue: #3498db;
-    --medical-mint: #48c9b0;
-    --medical-white: #ffffff;
-    --medical-gray: #95a5a6;
-    --medical-red: #e74c3c;
-}
+    --medical-blue: #2196F3;
+    --medical-mint: #00BFA5;
+    --medical-white: #FAFAFA;
+    --medical-gray: #78909c;
+    --medical-red: #FF5252;
+    --medical-yellow: #FFD740;
+    --medical-purple: #7C4DFF;
+    --medical-green: #00E676;
+    --medical-gradient: linear-gradient(45deg, var(--medical-blue), var(--medical-purple));
+    --medical-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    --medical-glow: 0 0 15px rgba(33,150,243,0.5);
+    --medical-transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    /* Animation for smooth transitions */
+    --medical-animation: fadeIn 0.5s ease-in-out;
+
+    /* Quiziz-like styling */
+    --quiziz-background: #f0f4f8;
+    --quiziz-primary: #3b5998;
+    --quiziz-secondary: #8b9dc3;
+    --quiziz-accent: #dfe3ee;
+    --quiziz-correct: #4CAF50;
+    --quiziz-incorrect: #F44336;
+
+    /* Keyframes for fade-in animation */
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
 
 /* Main container styling */
 .stApp {
@@ -114,4 +136,4 @@ h1, h2, h3 {
     .stButton > button {
         width: 100%;
     }
-} 
+} }
