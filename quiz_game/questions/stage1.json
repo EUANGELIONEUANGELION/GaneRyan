@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the normal resting heart rate for adults?",
+            "options": [
+                "40-50 beats per minute",
+                "60-100 beats per minute",
+                "100-120 beats per minute",
+                "120-140 beats per minute"
+            ],
+            "correct_answer": 1,
+            "time_limit": 15,
+            "points": 100
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is NOT a function of the liver?",
+            "options": [
+                "Protein synthesis",
+                "Detoxification",
+                "Oxygen exchange",
+                "Bile production"
+            ],
+            "correct_answer": 2,
+            "time_limit": 15,
+            "points": 100
+        }
+    ]
+} 

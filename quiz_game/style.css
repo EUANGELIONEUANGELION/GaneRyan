@@ -1,0 +1,117 @@
+/* Medical theme colors */
+:root {
+    --medical-blue: #3498db;
+    --medical-mint: #48c9b0;
+    --medical-white: #ffffff;
+    --medical-gray: #95a5a6;
+    --medical-red: #e74c3c;
+}
+
+/* Main container styling */
+.stApp {
+    background-color: var(--medical-white);
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: var(--medical-blue);
+    font-family: 'Arial', sans-serif;
+}
+
+/* Question container */
+.question-container {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+}
+
+/* Options styling */
+.stRadio > label {
+    background-color: var(--medical-white);
+    padding: 1rem;
+    border-radius: 5px;
+    border: 1px solid var(--medical-gray);
+    margin: 0.5rem 0;
+    transition: all 0.3s ease;
+}
+
+.stRadio > label:hover {
+    background-color: var(--medical-mint);
+    color: var(--medical-white);
+    cursor: pointer;
+}
+
+/* Timer styling */
+.timer {
+    font-size: 2rem;
+    color: var(--medical-blue);
+    text-align: center;
+    margin: 1rem 0;
+}
+
+/* Progress bar */
+.stProgress > div > div {
+    background-color: var(--medical-mint);
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: var(--medical-blue);
+    color: var(--medical-white);
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: var(--medical-mint);
+    transform: translateY(-2px);
+}
+
+/* Leaderboard styling */
+.leaderboard {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 1rem 0;
+}
+
+.player-score {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--medical-gray);
+}
+
+/* Medical icons */
+.medical-icon {
+    color: var(--medical-blue);
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .question-container {
+        padding: 1rem;
+    }
+    
+    .stButton > button {
+        width: 100%;
+    }
+} 

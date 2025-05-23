@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which neurotransmitter is primarily responsible for the sleep-wake cycle?",
+            "options": [
+                "Serotonin",
+                "Dopamine",
+                "Melatonin",
+                "Norepinephrine"
+            ],
+            "correct_answer": 2,
+            "time_limit": 20,
+            "points": 150
+        },
+        {
+            "id": 2,
+            "question": "In the cardiac conduction system, which structure normally initiates the heartbeat?",
+            "options": [
+                "AV node",
+                "SA node",
+                "Bundle of His",
+                "Purkinje fibers"
+            ],
+            "correct_answer": 1,
+            "time_limit": 20,
+            "points": 150
+        }
+    ]
+} 
